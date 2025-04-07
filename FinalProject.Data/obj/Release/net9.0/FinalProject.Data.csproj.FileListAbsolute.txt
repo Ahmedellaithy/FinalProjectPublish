@@ -1,0 +1,12 @@
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\bin\Release\net9.0\FinalProject.Data.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\bin\Release\net9.0\FinalProject.Data.dll
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\bin\Release\net9.0\FinalProject.Data.pdb
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\obj\Release\net9.0\FinalProject.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\obj\Release\net9.0\FinalProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\obj\Release\net9.0\FinalProject.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\obj\Release\net9.0\FinalProject.Data.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\obj\Release\net9.0\FinalProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\obj\Release\net9.0\FinalProject.Data.dll
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\obj\Release\net9.0\refint\FinalProject.Data.dll
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\obj\Release\net9.0\FinalProject.Data.pdb
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Data\obj\Release\net9.0\ref\FinalProject.Data.dll

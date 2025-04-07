@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\bin\Release\net9.0\FinalProject.Service.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\bin\Release\net9.0\FinalProject.Service.dll
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\bin\Release\net9.0\FinalProject.Service.pdb
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\bin\Release\net9.0\FinalProject.Data.dll
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\bin\Release\net9.0\FinalProject.Infrastructure.dll
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\bin\Release\net9.0\FinalProject.Data.pdb
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\bin\Release\net9.0\FinalProject.Infrastructure.pdb
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\obj\Release\net9.0\FinalProject.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\obj\Release\net9.0\FinalProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\obj\Release\net9.0\FinalProject.Service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\obj\Release\net9.0\FinalProject.Service.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\obj\Release\net9.0\FinalProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\obj\Release\net9.0\FinalPro.7A64942C.Up2Date
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\obj\Release\net9.0\FinalProject.Service.dll
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\obj\Release\net9.0\refint\FinalProject.Service.dll
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\obj\Release\net9.0\FinalProject.Service.pdb
+C:\Users\Lenovo\OneDrive\Desktop\FinalProject.Api\FinalProject.Service\obj\Release\net9.0\ref\FinalProject.Service.dll
